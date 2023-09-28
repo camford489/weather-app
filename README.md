@@ -17,7 +17,7 @@
 </ul><ul>
 <li>Add and remove favourite cities</li>
 </ul><h2>Screenshots</h2>
-<hr><p><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png](https://github.com/camford489/weather-app/blob/d6efbecddb36e9815f0722678143af125809cc79/public/media/weather-app.jpg)" alt=""></p><h2>Setup</h2>
+<hr><p><img src="https://github.com/camford489/weather-app/blob/d6efbecddb36e9815f0722678143af125809cc79/public/media/weather-app.jpg" alt=""></p><h2>Setup</h2>
 <hr><p>This project requires React, TypeScript, and OpenWeather API key and Webpack.</p><h5>Steps</h5>
 <p>
 ## Getting Started
