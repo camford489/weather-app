@@ -6,6 +6,7 @@
 	"author": "Guy Crawford, based upon an app by Daniel Sousa @TutoDS",
 	"license": "MIT",
 	"private": false,
+	"homepage": ".",
 	"scripts": {
 		"prebuild": "rimraf dist",
 		"build": "webpack --config webpack.config.js",
