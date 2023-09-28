@@ -43,13 +43,13 @@ bun run dev
 ```
 
 <p>
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open <a href="http://localhost:3000" target="_blank">(http://localhost:3000)</a> with your browser to see the result.
 </p>
 <p>
 You can start editing the page by modifying `src/pages/Home/index.tsx`. The page auto-updates as you edit the file.
 </p>
 <p>
-This project uses Poppins (https://fonts.googleapis.com/css2?family=Poppins), a Google Font.
+This project uses Poppins <a href="http://localhost:3000" target="_blank">(https://fonts.googleapis.com/css2?family=Poppins)</a>, a Google Font.
 </p>
 <h2>Project Status</h2>
 <hr><p>In Progress</p><h2>Improvements</h2>
