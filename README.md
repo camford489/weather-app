@@ -64,6 +64,6 @@ This project uses <a href="http://localhost:3000" target="_blank">Poppins (https
 <li>Animation details added with GreenSock / Framer to transition between pages.</li>
 </ul><h2>Acknowledgement</h2>
 <hr><ul>
-<li>This project was based on https://github.com/tutods/chakra-weather-app/, thanks to https://github.com/tutods for the base functionality.</li>
+<li>This project was based on https://github.com/tutods/chakra-weather-app/, thanks to https://github.com/tutods for the core functionality.</li>
 </ul><h2>Contact</h2>
 <hr><p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/guywcrawford/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a></p>
